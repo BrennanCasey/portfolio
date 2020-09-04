@@ -1,17 +1,13 @@
 # About Me
+I am soon to be graduating from my Masters in Business Intelligence & Analytics from Stevens Institute of Technology in Hoboken, NJ. I currently work for Walmart in a Supply Chain Analytics role and I am pursuing a Data Scientist role upon completion of my Masters degree in December 2020. 
 
 
-My resume is available [here]
+My resume is available [here](https://github.com/BrennanCasey/portfolio/blob/master/Resume.pdf).
 
 # Data Science Portfolio
 This is a repository for my machine learning projects over the years along with applicable data science project such as visualization, data collection, and web scraping. 
-Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks.
-
 
 _Note: I also have significant experience in task automation which is unavailable due to an honored Non-disclosure Agreement with my current employer. _
-
-
-If you would like to contact me for a work opportunity	please feel free to reach me on my [LinkedIn](https://www.linkedin.com/in/brennantcasey/)
 
 ## Contents
 
@@ -49,4 +45,4 @@ If you would like to contact me for a work opportunity	please feel free to reach
 
 I also dabble in all other kinds of technology. You can find a general portfolio [here](https://github.com/sajal2692/general-portfolio/blob/master/README.md).
 
-If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at contact@sajalsharma.com. 
+If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at brennancasey96@gmail.com. 
