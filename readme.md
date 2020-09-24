@@ -1,11 +1,10 @@
 # About Me
-I am soon to be graduating from my Masters in Business Intelligence & Analytics from Stevens Institute of Technology in Hoboken, NJ. I currently work for Walmart in a Supply Chain Analytics role and I am pursuing a Data Scientist role upon completion of my Masters degree in December 2020. 
-
+I am soon to be graduating from my Masters in Business Intelligence & Analytics from Stevens Institute of Technology in Hoboken, NJ. I currently work for Walmart in a Supply Chain Analytics role and I am pursuing a Data Scientist career upon completion of my Masters degree in December 2020. I love taking on the biggest problems I can and seeing if technology can make a difference. 
 
 My resume is available [here](https://github.com/BrennanCasey/portfolio/blob/master/Resume.pdf).
 
 # Data Science Portfolio
-This is a repository for my machine learning projects over the years along with applicable data science project such as visualization, data collection, and web scraping. 
+This is a repository for some of my machine learning projects along with applicable data science project such as visualization, data collection, and web scraping. 
 
 _Note: I also have significant experience in task automation which is unavailable due to an honored Non-disclosure Agreement with my current employer. _
 
@@ -43,6 +42,4 @@ _Note: I also have significant experience in task automation which is unavailabl
 		- [Movie Recommendations using Recommender Systems](https://github.com/sajal2692/data-science-portfolio/blob/master/ML%20Micro%20Projects/Recommender%20Systems%20with%20Python.ipynb): A micro project to build a recommendation system that makes movie recommendations based on user review similarities. 
 
 
-I also dabble in all other kinds of technology. You can find a general portfolio [here](https://github.com/sajal2692/general-portfolio/blob/master/README.md).
-
-If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at brennancasey96@gmail.com. 
+If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot me an email at brennancasey96@gmail.com. 
