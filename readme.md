@@ -12,8 +12,10 @@ _Note: I also have significant experience in task automation which is unavailabl
 - ### Machine Learning
 
 	- [Predicting Cheaters in CS:GO](https://github.com/BrennanCasey/portfolio/blob/master/CSGO%20Analysis.ipynb): An end-to-end machine learning project where I collected data from public steam profiles, identified cheaters caught by Valve's anti-cheat system, and created models to predict the players using injected Aim-Assist Software or "AimBots".
+	- [Amazon Review Rating Prediction](https://github.com/BrennanCasey/portfolio/blob/master/Amazon%20Review%20Prediction.ipynb): Using Pandas, NLTK, and Sci-Kit Learn to predict the rating of product reviews based on other scraped variables.
 	- [Supervised Learning Template](https://github.com/BrennanCasey/portfolio/blob/master/Machine%20Learning%20Template.ipynb): This file is a useful starting point to test baseline Sci-Kit Learn models. After one has cleaned his or her data, this notebook can help test some of the most common supervised machine learning algorithms without having to write much code. Enjoy!
-	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib 
+	
+	Tools: scikit-learn, Pandas, Seaborn, Matplotlib 
 
 
 
@@ -21,7 +23,7 @@ _Note: I also have significant experience in task automation which is unavailabl
 	- __Python__
 		- [TBD. Sorry I have not added work to this section. Come back later](https://github.com/): This will have some of my Exploratory Data Analysis work.
 		
-	_Tools: Pandas, Seaborn and Matplotlib_
+	_Tools: Pandas, Seaborn and Matplotlib _
 
 
 - ### Webscrapers: 
