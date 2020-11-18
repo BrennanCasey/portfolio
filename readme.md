@@ -1,6 +1,6 @@
 # About Me
 I am soon to be graduating from my Masters in Business Intelligence & Analytics from Stevens Institute of Technology in Hoboken, NJ. I currently work for Walmart in a Supply Chain Analytics role and I am pursuing a Data Scientist career upon completion of my Masters degree in December 2020. I love taking on the biggest problems I can and seeing if technology can make a difference. 
-My resume is available [here](https://github.com/BrennanCasey/portfolio/blob/master/Resume.pdf).
+My resume is available [here](https://github.com/BrennanCasey/portfolio/blob/master/Brennan Casey Resume.pdf).
 
 # Data Science Portfolio
 This is a repository for some of my machine learning projects along with applicable data science project such as visualization, data collection, and web scraping. 
@@ -18,14 +18,6 @@ _Note: I also have significant experience in task automation which is unavailabl
 	Tools: scikit-learn, Pandas, Seaborn, Matplotlib 
 
 
-
-- ### Data Analysis and Visualisation
-	- __Python__
-		- [TBD. Sorry I have not added work to this section. Come back later](https://github.com/): This will have some of my Exploratory Data Analysis work.
-		
-	_Tools: Pandas, Seaborn and Matplotlib _
-
-
 - ### Webscrapers: 
 
 	- __Python__
@@ -34,5 +26,6 @@ _Note: I also have significant experience in task automation which is unavailabl
 		- [Scraping Lululemon](https://github.com/BrennanCasey/portfolio/blob/master/Scraping%20LuluLemon.ipynb): Using Selenium to download content from LuLuLemon to be added to a consumer catalog. 
 	
 	_Tools: Selenium, Docker, Twilio, NLTK
+	
 
 If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot me an email at brennancasey96@gmail.com or message me on LinkedIn https://www.linkedin.com/in/brennantcasey/. 
