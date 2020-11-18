@@ -1,6 +1,6 @@
 # About Me
 I am soon to be graduating from my Masters in Business Intelligence & Analytics from Stevens Institute of Technology in Hoboken, NJ. I currently work for Walmart in a Supply Chain Analytics role and I am pursuing a Data Scientist career upon completion of my Masters degree in December 2020. I love taking on the biggest problems I can and seeing if technology can make a difference. 
-My resume is available [here](https://github.com/BrennanCasey/portfolio/blob/master/Brennan Casey Resume.pdf).
+My resume is available [here](https://github.com/BrennanCasey/portfolio/blob/master/Brennan_Casey_Resume.pdf).
 
 # Data Science Portfolio
 This is a repository for some of my machine learning projects along with applicable data science project such as visualization, data collection, and web scraping. 
